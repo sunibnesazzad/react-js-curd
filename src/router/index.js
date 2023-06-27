@@ -6,6 +6,8 @@ import About from '../pages/About.js';
 import Student from '../pages/Students.js';
 import StudentCreate from '../pages/StudentCreate.js';
 import StudentEdit from '../pages/StudentEdit.js';
+
+// youtube link react curd  https://www.youtube.com/watch?v=PUOkMi9UL74
  
 function MyRouter (){
 
